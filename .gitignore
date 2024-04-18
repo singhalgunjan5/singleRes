@@ -1,0 +1,53 @@
+# .NET Core
+*.obj
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.tmp
+*.swp
+*.cache
+*.log
+*.vscode/
+*.vs/
+bin/
+obj/
+TestResults/
+
+# Visual Studio files
+*.sln
+*.suo
+*.user
+*.userprefs
+*.bak
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+*.publishproj
+*.pubxml
+*.pubxml.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xml
+*.fakes
+*.sh
+*.config
+*.csproj.user
+*.ruleset
+*.dotSettings
+
+# Rider
+.idea/
+*.sln.iml
+*.iws
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
